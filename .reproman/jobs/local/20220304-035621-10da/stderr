@@ -1,1 +1,17 @@
-../../../../.git/annex/objects/k4/MJ/MD5E-s783--dfa9c33e6c0ca20322680755f923eba6/MD5E-s783--dfa9c33e6c0ca20322680755f923eba6
+Warning: Permanently added 'c113-141' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c113-142' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c189-081' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c189-103' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c189-203' (ED25519) to the list of known hosts.
+WARNING (03/05/22 22:52:02): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4120755.hostlist.9Aqta2rW to get hosts
+starting job on c113-141
+starting job on c113-142
+starting job on c142-161
+starting job on c142-172
+starting job on c142-192
+starting job on c142-211
+starting job on c142-214
+starting job on c189-081
+starting job on c189-103
+starting job on c189-203
